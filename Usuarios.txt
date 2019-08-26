@@ -1,0 +1,21 @@
+Usuario empresa:
+Correo: empresa3@emp.com
+password: Admin@123
+
+Usuario adulto mayor:
+Correo: abuelito3@abuelo.com
+password: Admin@123
+
+Usuario Admin:
+Correo: admin@example.com
+password: Admin@123456
+
+
+sepulveda@EmpresaSW.com
+EmpresaSW.com123
+
+staff@example.com
+staff@example.com123
+
+vol@vol.com
+vol@vol.com123
